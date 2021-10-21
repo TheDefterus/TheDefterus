@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheDefterus, Kinga Piper B. 
+- 👀 I’m interested in Machine learning and Mobile robotics
+- 🌱 I’m currently learning Robotics at aau
+- 📫 How to reach me:  Discord - TheDeftPiper#7194
